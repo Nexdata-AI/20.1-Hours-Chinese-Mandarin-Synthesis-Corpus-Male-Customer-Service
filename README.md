@@ -1,8 +1,10 @@
 # 20.1-Hours-Chinese-Mandarin-Synthesis-Corpus-Male-Customer-Service
-https://www.datatang.ai/datasets/1099
+
 
 ## Description
 20 Hours - Chinese Mandarin Synthesis Corpus-Male, Customer Service. It is recorded by Chinese native speakers, the voice of the full of magnetism. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3UFAGju
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
@@ -27,3 +29,6 @@ word and Pinyin transcription, four-level prosodic boundary annotation;
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
